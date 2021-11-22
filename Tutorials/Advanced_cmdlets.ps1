@@ -25,3 +25,7 @@ $list_2 | sort | Get-Unique
 Get-Content .\Tutorials\Files_and_folder_operations.ps1 | Measure-Object -character -line -word
 ###get properties of the directory
 Get-ChildItem .\ | Measure-Object
+
+# Format-List Cmdlet
+##Format-List
+###
