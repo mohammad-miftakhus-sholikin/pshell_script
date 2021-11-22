@@ -6,4 +6,4 @@
 
 # Greeting command
 Write-Host "Halo, Sholikin!" -ForegroundColor red -BackgroundColor white
-#Write-Host "Sekarang" -ForegroundColor red -BackgroundColor white; Get-Date
+# Write-Host "Sekarang" -ForegroundColor red -BackgroundColor white; Get-Date
